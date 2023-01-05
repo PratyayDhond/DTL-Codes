@@ -1,0 +1,213 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.3)  5 JAN 2023 05:29
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./ImageAndTables.tex
+(ImageAndTables.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28>
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/latex/base\article.
+cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.c
+lo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/latex/graphics\grap
+hicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyv
+al.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/latex/graphics\grap
+hics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig
+.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\
+graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\
+pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen139
+\stockheight=\dimen140
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/latex/csvsimple\csv
+simple.sty
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3
+keys2e\l3keys2e.sty
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl
+3.sty
+Package: expl3 2022-09-28 L3 programming layer (loader) 
+
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3b
+ackend-pdftex.def
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box51
+))
+Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+)
+Package: csvsimple 2022/09/20 v2.3.2 LaTeX CSV file processing
+)
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/latex/csvsimple\csv
+simple-legacy.sty
+Package: csvsimple-legacy 2022/09/20 version 2.3.2 LaTeX2e CSV file processing
+
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities
+\pgfrcs.sty
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfutil-common.tex
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen143
+\pgfutil@tempdimb=\dimen144
+
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfutil-common-lists.tex))
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfutil-latex.def
+\pgfutil@abb=\box52
+)
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfrcs.code.tex
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.rev
+ision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities
+\pgfkeys.sty
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks20
+)))
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.s
+ty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoo
+lbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count194
+)
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/latex/tools\shelles
+c.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\csv@file=\read2
+\c@csvinputline=\count195
+\c@csvrow=\count196
+\c@csvcol=\count197
+\csv@out=\write3
+) (ImageAndTables.aux)
+\openout1 = `ImageAndTables.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\s
+upp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count198
+\scratchdimen=\dimen145
+\scratchbox=\box53
+\nofMPsegments=\count199
+\nofMParguments=\count266
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count267
+\MPscratchDim=\dimen146
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
+\everyMPtoPDFconversion=\toks22
+)
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\
+epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\LightningHunter\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epst
+opdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+<home.jpeg, id=1, 722.7pt x 1284.8pt>
+File: home.jpeg Graphic file (type jpg)
+<use home.jpeg>
+Package pdftex.def Info: home.jpeg  used on input line 10.
+(pdftex.def)             Requested size: 216.81166pt x 385.44298pt.
+<scenary1.jpg, id=2, 1927.2pt x 1282.7925pt>
+File: scenary1.jpg Graphic file (type jpg)
+<use scenary1.jpg>
+Package pdftex.def Info: scenary1.jpg  used on input line 17.
+(pdftex.def)             Requested size: 345.0pt x 229.63995pt.
+ [1
+
+{C:/Users/LightningHunter/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./
+home.jpeg>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 30.
+ [2 <./scenary1.jpg>] [3] (ImageAndTables.aux) ) 
+Here is how much of TeX's memory you used:
+ 3062 strings out of 475385
+ 63790 string characters out of 2772188
+ 403168 words of memory out of 3000000
+ 24427 multiletter control sequences out of 15000+600000
+ 470172 words of font info for 31 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,8n,77p,284b,304s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/LightningHunter/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Li
+ghtningHunter/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx
+12.pfb><C:/Users/LightningHunter/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb>
+Output written on ImageAndTables.pdf (3 pages, 452626 bytes).
+PDF statistics:
+ 29 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
